@@ -15,7 +15,6 @@ Acesse [https://platform.openai.com/](https://platform.openai.com/) para criar u
 Crie um arquivo `.env` na raiz do projeto e adicione as seguintes configurações:
 
 ```
-env
 TOKEN=(Cole aqui o token do seu bot do Discord)
 OPENAI_KEY=(Cole aqui a chave da API da OpenAI)
 ```
