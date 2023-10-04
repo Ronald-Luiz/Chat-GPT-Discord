@@ -10,7 +10,7 @@ Acesse [https://discord.com/developers/](https://discord.com/developers/) e crie
 
 Acesse [https://platform.openai.com/](https://platform.openai.com/) para criar uma conta e obter a chave de API necessária.
 
-### 3. Configure as variáveis de ambiente: ###
+### 3. Configure as variáveis de ambiente: 
 
 Crie um arquivo `.env` na raiz do projeto e adicione as seguintes configurações:
 
