@@ -24,15 +24,23 @@ OPENAI_KEY=(Cole aqui a chave da API da OpenAI)
 ### 4. Instale as dependências:
 
 No terminal, execute o seguinte comando para baixar as dependências do projeto:
-``npm i -y``
+
+```
+npm i -y
+```
 
 
 ### 5. Execute o projeto:
 
 Agora, você pode executar o projeto com o seguinte comando:
-``node index.js``
+
+```
+node index.js
+```
 
 
 Certifique-se de que você definiu o ID do canal para o qual deseja que o bot envie mensagens no arquivo index.js na linha 17, como mostrado no exemplo abaixo:
 
-``const CHANNELS = ['SEU_ID_DE_CANAL_AQUI'];``
+```
+const CHANNELS = ['SEU_ID_DE_CANAL_AQUI'];
+```
