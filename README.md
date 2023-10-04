@@ -21,7 +21,7 @@ OPENAI_KEY=(Cole aqui a chave da API da OpenAI)
 
 ### 4. Instale as dependências:
 No terminal, execute o seguinte comando para baixar as dependências do projeto:
-``npm i -y
+``npm i -y``
 
 
 ### 5. Execute o projeto:
