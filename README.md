@@ -14,9 +14,11 @@ Acesse [https://platform.openai.com/](https://platform.openai.com/) para criar u
 
 Crie um arquivo `.env` na raiz do projeto e adicione as seguintes configurações:
 
-```env```
+```
+env
 TOKEN=(Cole aqui o token do seu bot do Discord)
 OPENAI_KEY=(Cole aqui a chave da API da OpenAI)
+```
 
 
 ### 4. Instale as dependências:
@@ -31,6 +33,6 @@ Agora, você pode executar o projeto com o seguinte comando:
 ``node index.js``
 
 
-***Certifique-se de que você definiu o ID do canal para o qual deseja que o bot envie mensagens no arquivo index.js na linha 17, como mostrado no exemplo abaixo:
+Certifique-se de que você definiu o ID do canal para o qual deseja que o bot envie mensagens no arquivo index.js na linha 17, como mostrado no exemplo abaixo:
 
 ``const CHANNELS = ['SEU_ID_DE_CANAL_AQUI'];``
